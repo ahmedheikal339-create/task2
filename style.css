@@ -53,7 +53,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items:center ;
-    background-image: url(461f9f70-9ab4-4444-8218-c501024e813b.jpg);
+    background-image: url("461f9f70-9ab4-4444-8218-c501024e813b.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
