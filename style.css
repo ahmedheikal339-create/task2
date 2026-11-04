@@ -217,7 +217,6 @@ footer {
 .social a:hover {
     text-decoration: underline;
 }
-/* التنسيق الاحترافي للموبايل */
 @media (max-width: 768px) {
     header {
         flex-direction: column;
@@ -253,7 +252,7 @@ footer {
     }
 
     .main h2 span {
-        font-size: 1.4em; /* تصغير الخط لكي لا يخرج عن الشاشة */
+        font-size: 1.4em;
         line-height: 1.3;
     }
 
